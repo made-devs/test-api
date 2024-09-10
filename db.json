@@ -6,7 +6,7 @@
         "id": 1,
         "name": "Ayam Betutu (1/4 ekor)",
         "unitPrice": 40000,
-        "imageUrl": "../public/ayambetutuquarter.png",
+        "imageUrl": "/ayambetutuquarter.png",
         "ingredients": ["Ayam Kampung", "Bumbu Genep", "Bumbu Wewangenan"],
         "soldOut": false
       },
@@ -14,7 +14,7 @@
         "id": 2,
         "name": "Ayam Betutu (1 ekor)",
         "unitPrice": 120000,
-        "imageUrl": "../public/ayambetutu.png",
+        "imageUrl": "/ayambetutu.png",
         "ingredients": ["Ayam Kampung", "Bumbu Genep", "Bumbu Wewangenan"],
         "soldOut": true
       },
@@ -22,7 +22,7 @@
         "id": 3,
         "name": "Sate Lilit",
         "unitPrice": 25000,
-        "imageUrl": "../public/satelilit.png",
+        "imageUrl": "/satelilit.png",
         "ingredients": ["Ikan", "Bumbu genep", "Serai"],
         "soldOut": false
       },
@@ -30,7 +30,7 @@
         "id": 4,
         "name": "Nasi Campur",
         "unitPrice": 23000,
-        "imageUrl": "../public/nasicampur.png",
+        "imageUrl": "/nasicampur.png",
         "ingredients": ["Ayam Suwir", "Sate Lilit", "Sayur Urap, Sambal Matah"],
         "soldOut": false
       },
@@ -38,7 +38,7 @@
         "id": 5,
         "name": "Lawar Ayam",
         "unitPrice": 23000,
-        "imageUrl": "../public/lawarayam.png",
+        "imageUrl": "/lawarayam.png",
         "ingredients": ["Ayam Kampung", "Nangka Muda", "Kacang Panjang"],
         "soldOut": false
       },
@@ -46,7 +46,7 @@
         "id": 6,
         "name": "Lawar Kuwir",
         "unitPrice": 23000,
-        "imageUrl": "../public/lawarkuwir.png",
+        "imageUrl": "/lawarkuwir.png",
         "ingredients": ["Kuwir (Bebek)", "Nangka Muda", "Sayur Belimbing Muda"],
         "soldOut": false
       },
@@ -54,7 +54,7 @@
         "id": 7,
         "name": "Tipat Cantok",
         "unitPrice": 13000,
-        "imageUrl": "../public/tipatcantok.png",
+        "imageUrl": "/tipatcantok.png",
         "ingredients": ["Ketupat", "Sayuran Rebus", "Bumbu Kacang"],
         "soldOut": false
       },
@@ -62,7 +62,7 @@
         "id": 8,
         "name": "Sudang Lepet",
         "unitPrice": 15000,
-        "imageUrl": "../public/sudanglepet.png",
+        "imageUrl": "/sudanglepet.png",
         "ingredients": ["Ikan Asin", "Sambal Embe"],
         "soldOut": true
       },
@@ -70,7 +70,7 @@
         "id": 9,
         "name": "Tipat Blayag",
         "unitPrice": 14000,
-        "imageUrl": "../public/tipatblayag.png",
+        "imageUrl": "/tipatblayag.png",
         "ingredients": [
           "Ketupat",
           "Sayur Urap",
@@ -83,7 +83,7 @@
         "id": 10,
         "name": "Tum Ayam",
         "unitPrice": 15000,
-        "imageUrl": "../public/tumayam.png",
+        "imageUrl": "/tumayam.png",
         "ingredients": ["Pepes Ayam", "Bumbu Genep"],
         "soldOut": false
       },
@@ -91,7 +91,7 @@
         "id": 11,
         "name": "Sate Plecing",
         "unitPrice": 25000,
-        "imageUrl": "../public/sateplecing.png",
+        "imageUrl": "/sateplecing.png",
         "ingredients": ["Ayam", "Bumbu Plecing", "Sambal"],
         "soldOut": false
       },
@@ -99,7 +99,7 @@
         "id": 12,
         "name": "Bubur Mengguh",
         "unitPrice": 16000,
-        "imageUrl": "../public/buburmengguh.png",
+        "imageUrl": "/buburmengguh.png",
         "ingredients": ["Bubur", "Ayam Suwir", "Sayuran", "Bumbu Rempah"],
         "soldOut": false
       },
@@ -107,7 +107,7 @@
         "id": 13,
         "name": "Rujak Buleleng",
         "unitPrice": 10000,
-        "imageUrl": "../public/rujakbuleleng.png",
+        "imageUrl": "/rujakbuleleng.png",
         "ingredients": [
           "Pisang Batu",
           "Aneka Buah",
@@ -121,7 +121,7 @@
         "id": 14,
         "name": "Rujak Kuah Pindang",
         "unitPrice": 12000,
-        "imageUrl": "../public/rujakkuahpindang.png",
+        "imageUrl": "/rujakkuahpindang.png",
         "ingredients": [
           "Aneka Buah",
           "Kaldu Pindang",
